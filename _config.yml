@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Beatkom Website
 
 # Your name to show in the footer
-author: Some Person
+author: Beatkom CC
 
 # --- List of links in the navigation bar --- #
 
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://scontent.ftun2-1.fna.fbcdn.net/v/t1.6435-9/238691684_111017881296018_6535671479084619750_n.png?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=fIN6fB3Mds8AX-LYwzt&_nc_ht=scontent.ftun2-1.fna&oh=242fe74e4b3fad1dd28ed78050de82aa&oe=61734745"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,14 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
+  email: "beatkom@gmail.com"
+  facebook: beatkom 
+  github: beatkom
+  twitter: beatkom
+  patreon: beatkom
+  youtube: c/beatkom
+#  medium: beatkom
+#  reddit: beatkom
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
